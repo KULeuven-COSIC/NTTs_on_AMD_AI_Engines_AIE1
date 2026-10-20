@@ -1,0 +1,15 @@
+# Build and simulation outputs
+/build/
+Work/
+libadf.a
+*.log
+.Xil/
+aiesimulator_output/
+x86simulator_output/
+pl_sample_counts
+# Vitis IDE workspace files
+_ide/
+.vitis/
+.ipcache/
+vitis-comp.json
+compile_commands.json
